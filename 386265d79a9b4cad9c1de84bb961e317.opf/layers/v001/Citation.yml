@@ -1,9 +1,4 @@
 id: 6b7f62b735804692a188e374d6937a66
 annotation_type: Citation
-revision: '00011'
-annotations:
-  f90ed8fbd7264853a0348d4c23e1a7aa:
-    span:
-      start: 71
-      end: 103
-    is_verse: false
+revision: '00001'
+annotations: {}
