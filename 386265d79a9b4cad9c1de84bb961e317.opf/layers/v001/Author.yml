@@ -1,4 +1,8 @@
 id: c4c56a46a72c4a0ab7addcfe305283a5
 annotation_type: Author
-revision: '00001'
-annotations: {}
+revision: '00002'
+annotations:
+  c0bffe76ac31416bb8d1c88748b710a5:
+    span:
+      start: 153
+      end: 256
