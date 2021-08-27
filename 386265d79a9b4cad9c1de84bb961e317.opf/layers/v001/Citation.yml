@@ -1,4 +1,10 @@
 id: cd426638f3ed4c569a1170a44553ae5d
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: '00002'
+annotations:
+  13090ef8476a409da7dab20b577456ee:
+    span:
+      start: 258
+      end: 305
+    metadata:
+      css_class_name: tibetan-citations
